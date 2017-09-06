@@ -14,8 +14,6 @@ import javax.validation.constraints.Pattern;
 
 import org.hibernate.validator.constraints.NotEmpty;
 
-import br.com.caelum.alura.model.Usuario;
-
 @Entity
 public class HoraLancada {
 

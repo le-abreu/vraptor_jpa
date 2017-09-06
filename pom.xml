@@ -18,19 +18,76 @@
 			<artifactId>vraptor</artifactId>
 			<version>4.0.0.Final</version>
 		</dependency>
+
+		<!-- NOVAS -->
 		
 <!-- 		<dependency> -->
-<!-- 			<groupId>br.com.caelum.vraptor</groupId> -->
-<!-- 			<artifactId>vraptor-jpa</artifactId> -->
-<!-- 			<version>4.0.4</version> -->
-<!-- 		</dependency> -->
-		
-<!-- 		<dependency> -->
-<!-- 		    <groupId>br.com.caelum.vraptor</groupId> -->
-<!-- 		    <artifactId>vraptor-simplemail</artifactId> -->
-<!-- 		    <version>4.0.0-RC2</version> -->
+<!-- 			<groupId>org.jboss.weld.servlet</groupId> -->
+<!-- 			<artifactId>weld-servlet-core</artifactId> -->
+<!-- 			<version>2.1.2.Final</version> -->
 <!-- 		</dependency> -->
 
+<!-- 		<dependency> -->
+<!-- 			<groupId>org.jboss.weld</groupId> -->
+<!-- 			<artifactId>weld-core-impl</artifactId> -->
+<!-- 			<version>2.1.2.Final</version> -->
+<!-- 		</dependency> -->
+
+<!-- 		<dependency> -->
+<!-- 			<groupId>javax.el</groupId> -->
+<!-- 			<artifactId>el-api</artifactId> -->
+<!-- 			<version>2.2</version> -->
+<!-- 			<scope>provided</scope> -->
+<!-- 		</dependency> -->
+
+<!-- 		<dependency> -->
+<!-- 			<groupId>javax.inject</groupId> -->
+<!-- 			<artifactId>javax.inject</artifactId> -->
+<!-- 			<version>1</version> -->
+<!-- 		</dependency> -->
+
+<!-- 		<dependency> -->
+<!-- 			<groupId>javax.servlet</groupId> -->
+<!-- 			<artifactId>jstl</artifactId> -->
+<!-- 			<version>1.2</version> -->
+<!-- 		</dependency> -->
+
+<!-- 		<dependency> -->
+<!-- 			<groupId>org.hibernate</groupId> -->
+<!-- 			<artifactId>hibernate-validator-cdi</artifactId> -->
+<!-- 			<version>5.1.1.Final</version> -->
+<!-- 		</dependency> -->
+
+<!-- 		<dependency> -->
+<!-- 			<groupId>org.hibernate</groupId> -->
+<!-- 			<artifactId>hibernate-entitymanager</artifactId> -->
+<!-- 			<version>4.3.6.Final</version> -->
+<!-- 		</dependency> -->
+		
+<!-- 		<dependency> -->
+<!-- 			<groupId>org.hsqldb</groupId> -->
+<!-- 			<artifactId>hsqldb</artifactId> -->
+<!-- 			<version>2.3.0</version> -->
+<!-- 		</dependency> -->
+		
+		
+<!-- 		<dependency> -->
+<!-- 			<groupId>org.slf4j</groupId> -->
+<!-- 			<artifactId>slf4j-log4j12</artifactId> -->
+<!-- 			<version>1.6.0</version> -->
+<!-- 		</dependency> -->
+		
+<!-- 		<dependency> -->
+<!-- 			<groupId>org.slf4j</groupId> -->
+<!-- 			<artifactId>slf4j-api</artifactId> -->
+<!-- 			<version>1.6.0</version> -->
+<!-- 		</dependency> -->
+		
+		
+		<!-- NOVAS -->
+		
+		<!-- ANTIGAS -->
+		
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-validator-cdi</artifactId>
@@ -86,6 +143,7 @@
 			<artifactId>mysql-connector-java</artifactId>
 			<version>5.1.35</version>
 		</dependency>
+		<!-- ANTIGAS -->
 		
 	</dependencies>
 
